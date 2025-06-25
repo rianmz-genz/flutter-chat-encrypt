@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846774286267",
+    "project_id": "crypto-chat-app-74abe",
+    "storage_bucket": "crypto-chat-app-74abe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846774286267:android:9c6f86ca237d1df012369e",
+        "android_client_info": {
+          "package_name": "com.example.flutterchatencrypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSM6obwxDfTrE7r-4WOdDzJvQ9hLAqms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
